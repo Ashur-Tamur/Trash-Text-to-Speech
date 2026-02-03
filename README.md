@@ -1,4 +1,4 @@
-# Awesome TTS 🗣️
+# Fucking Horrible TTS 🗣️
 
 A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector.
 
