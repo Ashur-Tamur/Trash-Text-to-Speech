@@ -15,7 +15,6 @@ The field of Text-to-Speech (TTS) has matured significantly, with modern models 
 
 | Service/Model | Organization | Key Features | Link |
 | --- | --- | --- | --- |
-| **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models. | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
 | **ElevenLabs** | ElevenLabs | Realistic AI voices in numerous languages, with voice cloning and dubbing. | [ElevenLabs](https://elevenlabs.io/) |
 | **Google Cloud TTS** | Google | Large variety of voices and languages, with customization options. | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
 | **Deepgram Aura** | Deepgram | Low-latency TTS for real-time conversations. | [Deepgram Aura](https://deepgram.com/aura) |
